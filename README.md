@@ -6,6 +6,7 @@ Duration: SEPTEMBER 20th, 2024 to OCTOBER 20th, 2024.
 Mentor: Muzammil 
 
 # Overview of the Simple Calculator Project
+<img width="756" alt="ct 1" src="https://github.com/user-attachments/assets/ad62e07b-9fc3-4887-8582-252a9a84f87a">
 
 This project is a basic calculator implemented in Python. It allows users to perform fundamental arithmetic operations—addition, subtraction, multiplication, and division—on two numbers. The program is designed to be beginner-friendly, providing a clear structure and easy-to-understand functionality.
 
